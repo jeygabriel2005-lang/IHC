@@ -1,0 +1,6 @@
+{
+  "name": "ScreenCraft Studio",
+  "description": "Multi-screen application previewer and HTML design importer with hotlinked image extraction and responsive device frames.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
